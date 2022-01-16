@@ -11,4 +11,4 @@
 - 7th Folder contains intro to pseudo classes
 - 8th Folder contains media queries to make a responsive website
 
-###### Learnings from [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+###### Learnings from [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
